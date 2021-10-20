@@ -1,0 +1,6 @@
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\bin\Debug\CrossCuttingValidadores.dll
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\bin\Debug\CrossCuttingValidadores.pdb
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\obj\Debug\CrossCuttingValidadores.csproj.AssemblyReference.cache
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\obj\Debug\CrossCuttingValidadores.csproj.CoreCompileInputs.cache
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\obj\Debug\CrossCuttingValidadores.dll
+C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\CrossCuttingValidadores\obj\Debug\CrossCuttingValidadores.pdb
