@@ -22,7 +22,7 @@ namespace WindowsFormsApplication1
 				_listaSolicitacoes = listaSolicitacoes;
 				InitializeComponent();
 				txtID.Text = "ID: " + idAtual.ToString();
-				txtDataCriacao.Text = "Data de criação: " + DateTime.Now.ToString("d");
+				//txtDataCriacao.Text = "Data de criação: " + DateTime.Now.ToString("d");
 				labelErroCPF.Visible = false;
 		  }
 
