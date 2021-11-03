@@ -149,6 +149,7 @@ namespace WindowsFormsApplication1
 				this.textBoxSalarioAtual.ReadOnly = true;
 				this.textBoxSalarioAtual.Size = new System.Drawing.Size(73, 20);
 				this.textBoxSalarioAtual.TabIndex = 28;
+				this.textBoxSalarioAtual.TextChanged += new System.EventHandler(this.textBoxSalarioAtual_TextChanged);
 				// 
 				// textBoxInss
 				// 
