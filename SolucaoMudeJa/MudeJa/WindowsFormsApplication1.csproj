@@ -46,12 +46,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DTOSolicitacaoDeMudanca.cs" />
-    <Compile Include="FormCalculoInss.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormCalculoInss.Designer.cs">
-      <DependentUpon>FormCalculoInss.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormCalculoInss2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,9 +60,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormCalculoInss.resx">
-      <DependentUpon>FormCalculoInss.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormCalculoInss2.resx">
       <DependentUpon>FormCalculoInss2.cs</DependentUpon>
     </EmbeddedResource>

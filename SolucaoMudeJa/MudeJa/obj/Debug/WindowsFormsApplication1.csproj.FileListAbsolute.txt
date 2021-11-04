@@ -27,7 +27,6 @@ C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\WindowsForm
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.pdb
-C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.Form2.resources
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.FormCalculoInss2.resources
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.Form3.resources
 C:\Users\emace\Desktop\WindowsFormsApplication1-20211020T230459Z-001\SolucaoMudeJa\MudeJa\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
